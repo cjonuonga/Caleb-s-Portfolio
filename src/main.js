@@ -10,6 +10,8 @@ k.loadSprite("Generic_Home_1_Layer_2", "Generic_Home_1_Layer_2_.png", {
   sliceY: 13,
 });
 
+k.setBackground(k.Color.fromHex("#06402B"));
+
 k.loadSprite("samuel", "Samuel_16x16.png", {
   sliceX: 48,
   sliceY: 18,
